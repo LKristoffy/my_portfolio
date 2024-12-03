@@ -1,4 +1,4 @@
-# LLM Experiements
+# LLM Experiments
 
 These projects reflect simple playing and unfinished projects using LLMs as a way of better understading them and seeing some of their capabilities.
 
