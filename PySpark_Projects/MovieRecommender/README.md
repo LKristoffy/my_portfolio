@@ -4,27 +4,27 @@ A collaborative filtering-based movie recommendation system built using PySpark'
 
 ## 📋 Table of Contents
 
-[Introduction](#Introduction)
-Dataset
-Features
-Setup Instructions
-Implementation Details
-Results
-Future Work
-License
+- [Introduction](#intro)
+- [Dataset](#data)
+- [Features](#feat)
+- [Setup Instructions](#setup)
+- [Implementation Details](#imp)
+- [Results](#res)
+- [Future Work](#future)
+- [License](#lic)
 
-## 📖 Introduction
+## 📖 Introduction {#intro}
 
 This project builds a movie recommendation system using collaborative filtering. By leveraging user-movie interaction data, it predicts user preferences and generates personalized movie suggestions. The implementation demonstrates the power of PySpark for processing large-scale data and training machine learning models in a distributed environment.
 
-## 📁 Dataset
+## 📁 Dataset {#data}
 
 The project uses the MovieLens dataset, a widely-used benchmark dataset for recommendation systems. It includes:
 
 Ratings Data: User ratings for movies.
 Movies Data: Movie titles and genres.
 
-## ✨ Features
+## ✨ Features {#feat}
 
 Collaborative Filtering:
 
@@ -42,7 +42,7 @@ Recommendations:
 
 5. Provided personalized movie recommendations for users.
    
-## ⚙️ Setup Instructions
+## ⚙️ Setup Instructions {#setup}
 
 Prerequisites:
 
@@ -52,7 +52,7 @@ Java (>= 11)
 Jupyter Notebook (optional, for running the notebook)
 
 
-## 💻 Implementation Details
+## 💻 Implementation Details {#imp}
 
 1. Data Preprocessing:
 
@@ -70,7 +70,7 @@ Jupyter Notebook (optional, for running the notebook)
 
 - Plotted trends in movie ratings and user activity using Matplotlib and Seaborn.
 
-## 📊 Results
+## 📊 Results {#res}
 
 The ALS model provided personalized movie recommendations with reasonable accuracy:
 
@@ -85,7 +85,7 @@ Sample recommendations for a user:
 | Interstellar (2014)	  | 4.5 |
 
 
-## 🚀 Future Work
+## 🚀 Future Work {#future}
 
 1. Content-Based Filtering:
 
@@ -102,6 +102,6 @@ Sample recommendations for a user:
 - Matplotlib/Seaborn: Data visualization.
 - Jupyter Notebook: Development and experimentation.
   
-## 📄 License
+## 📄 License {#lic}
  
 This project is licensed under the MIT License - see the LICENSE file for details.
