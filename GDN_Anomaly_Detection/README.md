@@ -63,15 +63,10 @@ Prerequisites
 
 - Used metrics such as precision, recall, and F1-score to evaluate anomaly detection performance.
 ## 📊 Results
-- GDN:
-
-Performance on synthetic data was not satisfactory, with low anomaly detection precision.
+- GDN: Performance on synthetic data was not satisfactory, with low anomaly detection precision.
 Likely due to the synthetic dataset's inability to represent meaningful inter-sensor relationships.
-- PCA Baseline:
-
-Achieved marginally better results than GDN but still limited in detecting anomalies effectively.
-- Observations:
-Results do not reflect the strong performance of GDN on real-world datasets where inter-sensor relationships are more meaningful.
+- PCA Baseline: Achieved marginally better results than GDN but still limited in detecting anomalies effectively.
+- Observations: Results do not reflect the strong performance of GDN on real-world datasets where inter-sensor relationships are more meaningful.
 ## 🛠️ Challenges
 - Synthetic Nature of Dataset: The synthetic dataset may lack realistic inter-sensor correlations, limiting the ability of the GDN to leverage graph-based relationships.
 - Data Quality: Limited variety and complexity in the dataset reduce the generalizability of results.
