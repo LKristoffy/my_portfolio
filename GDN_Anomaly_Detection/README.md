@@ -71,17 +71,9 @@ Likely due to the synthetic dataset's inability to represent meaningful inter-se
 - Synthetic Nature of Dataset: The synthetic dataset may lack realistic inter-sensor correlations, limiting the ability of the GDN to leverage graph-based relationships.
 - Data Quality: Limited variety and complexity in the dataset reduce the generalizability of results.
 ## 🚀 Future Work
-- Real-World Dataset:
-
-Apply the GDN model to real-world multivariate time series datasets with stronger inter-sensor relationships.
-- Meta-Learning:
-
-Investigate meta-learning approaches to adapt the GDN to new operating environments more efficiently.
-- Dynamic Dataset Generation:
-
-Create synthetic datasets with better inter-sensor relationships for improved benchmarking.
-- Anomaly Explanation:
-
-Enhance interpretability by leveraging attention weights to explain detected anomalies.
+- Real-World Dataset: Apply the GDN model to real-world multivariate time series datasets with stronger inter-sensor relationships.
+- Meta-Learning: Investigate meta-learning approaches to adapt the GDN to new operating environments more efficiently.
+- Dynamic Dataset Generation: Create synthetic datasets with better inter-sensor relationships for improved benchmarking.
+- Anomaly Explanation: Enhance interpretability by leveraging attention weights to explain detected anomalies.
 ## 📄 License
 This project is licensed under the MIT License - see the LICENSE file for details.
