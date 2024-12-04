@@ -2,15 +2,16 @@
 A project that implements a graph neural network (GDN) to detect anomalies in multivariate time series data. This study was applied to a synthetic dataset from Kaggle and includes a baseline comparison using Principal Component Analysis (PCA).
 
 ## 📋 Table of Contents
-Introduction
-Dataset
-Features
-Setup Instructions
-Implementation Details
-Results
-Challenges
-Future Work
-License
+
+- [Introduction](#introduction)
+- [Dataset](#dataset)
+- [Features](#features)
+- [Setup Instructions](#setup-instructions)
+- [Implementation Details](#implementation-details)
+- [Results](#results)
+- [Challenges](#challenges)
+- [Future Work](#future-work)
+- [License](#license)
 ## 📖 Introduction
 This project explores the use of a graph neural network for anomaly detection in multivariate time series data. It utilizes the relationships between features (sensors) to construct a dynamic graph and detect deviations from normal behavior. The anomaly score is computed based on the deviation at each time step.
 
