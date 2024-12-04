@@ -99,12 +99,12 @@ Use the external IP to send requests to the API, for example:
 Step 3: Scale and Manage
 Scale the Deployment:
 
-kubectl scale deployment boston-price-api --replicas=5
+``kubectl scale deployment boston-price-api --replicas=5``
 Clean Up:
 
 
-kubectl delete -f app/deployment.yaml
-gcloud container clusters delete boston-price-cluster --region=us-central1
+``kubectl delete -f app/deployment.yaml
+gcloud container clusters delete boston-price-cluster --region=us-central1``
 ## 💻 Implementation Details
 - Model Training:
 A training notebook in the notebooks/ folder demonstrates preprocessing, training, and evaluation of the regression model.
