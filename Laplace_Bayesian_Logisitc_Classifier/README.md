@@ -43,6 +43,17 @@ This project demonstrates a robust implementation of a linear logistic classifie
 - Explores the posterior weight distributions with pairwise scatter plots.
 
 ---
+## ➕ Key Functions
+### **Training and Inference**
+- `get_ll_test_mom`: Computes log-likelihood for test data.
+- `tune_parameters_MLE`: Finds optimal learning rate and RBF length scale.
+- `fit_w_mom`: Fits model weights using gradient descent with momentum.
+- `compute_lpost`: Computes the log-posterior and its gradient.
+- `get_MAP`: Computes the MAP solution for the posterior distribution.
+- `get_S_N`: Computes the covariance matrix for the Gaussian approximation to the posterior.
+### **Visualization**
+- `plot_ll`: Visualizes log-likelihoods.
+- `plot_predictive_distribution`: Plots decision boundaries and predictive distributions.
 
 ## ⚙️ Setup Instructions
 Prerequisites
