@@ -91,13 +91,13 @@ Queue Contents: [Item54, Item53, ..., Item1]
 
 ## 🛠️ Future Enhancements
 
-1. Performance Optimization:
+1. **Performance Optimization**:
 Implement a lock-free queue using atomic operations for improved concurrency.
-2. Custom Thread Pools:
+2. **Custom Thread Pools**:
 Use thread pools for better thread management and scalability.
-3. Advanced Operations:
+3. **Advanced Operations**:
 Add support for priority-based queue operations.
-4. Testing Framework:
+4. **Testing Framework**:
 Integrate unit testing for verifying queue operations.
 ## 📄 License
 This project is licensed under the MIT License. See the LICENSE file for more details.
