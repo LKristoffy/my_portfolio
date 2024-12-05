@@ -53,12 +53,13 @@ Navigate to the notebooks/ folder and run the training notebook.
 Build the Docker Image:
 
 ``docker build -t <your-dockerhub-username>/boston_price_api:v1``
+
 Push the Image to DockerHub:
 
-bash
-Copy code
-docker push <your-dockerhub-username>/boston_price_api:v1
+``docker push <your-dockerhub-username>/boston_price_api:v1``
+
 ## ☁️ Google Cloud Kubernetes Deployment
+
 Step 1: Set Up Google Kubernetes Engine (GKE)
 
 Create a Google Cloud Kubernetes Cluster:
