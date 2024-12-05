@@ -113,7 +113,7 @@ Experiments with large language models (LLMs) focusing on fine-tuning and adapti
 **Tech Stack:**  
 Python, Hugging Face Transformers, TensorFlow/PyTorch.  
 
-(Details forthcoming)
+[**View Project Details**](./LLMExperiments)
 
 ---
 
