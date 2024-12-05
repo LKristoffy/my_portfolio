@@ -2,17 +2,19 @@
 # 🧠 Logistic Classifier with RBF Extensions
 An implementation of a logistic classifier, extended with advanced features such as radial basis functions (RBFs) for non-linear decision boundaries, momentum-based parameter optimization, and Bayesian techniques for hyperparameter tuning.
 
+---
 ## 📋 Table of Contents
 
 - [Introduction](#introduction)
 - [Features](#features)
+- [Key Functions](#key-functions)
 - [Setup Instructions](#setup-instructions)
 - [Implementation Details](#implementation-details)
 - [Results](#results)
 - [Future Work](#future-work)
 - [License](#license)
 
-- 
+  
 ---
 
 ## 📖 Introduction
@@ -83,11 +85,13 @@ The use of RBFs improved classification accuracy on non-linearly separable datas
 Momentum optimization accelerated convergence by approximately 30% compared to standard gradient descent.
 Bayesian logistic regression with Laplacian approximation provided reliable uncertainty estimates for predictions.
 **Example Performance:**
-| Dataset	Accuracy |	Optimization | Convergence (Epochs) |
-| ----- | ----- | --------|
-|Linear Data |	95%	| 100 |
-| Non-Linear (RBF)	|98%|	120|
-|Bayesian Extension	|97%|	150|
+| Classifier Type |	Accuracy |
+| ----- | ----- |
+|Linear |	68%	| 
+| Non-Linear (RBF)	|90%|
+|Bayesian Extension	|91%|	
+
+---
 ## 🚀 Future Work
 **Multiclass Support:**
 
@@ -98,5 +102,8 @@ Experiment with different prior distributions to refine Bayesian modeling.
 **Interactive Visualizations:**
 
 Develop tools to visualize decision boundaries and model uncertainties dynamically.
+
+---
+
 ## 📄 License
 This project is licensed under the MIT License. See the LICENSE file for details.
