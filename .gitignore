@@ -5,3 +5,4 @@
 /LLMExperiments/BERT_Sentiment_Analysis/results/checkpoint-1000/pytorch_model.bin
 /LLMExperiments/BERT_Sentiment_Analysis/results/checkpoint-500/optimizer.pt
 /PySpark_Projects/MovieRecommender/Data/rating.csv
+/.vscode
