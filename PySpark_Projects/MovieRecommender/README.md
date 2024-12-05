@@ -44,12 +44,12 @@ Recommendations:
    
 ## ⚙️ Setup Instructions
 
-Prerequisites:
+**Prerequisites:**
 
-Python (>= 3.8)
-PySpark (>= 3.3.0)
-Java (>= 11)
-Jupyter Notebook (optional, for running the notebook)
+- Python (>= 3.8)
+- PySpark (>= 3.3.0)
+- Java (>= 11)
+- Jupyter Notebook (optional, for running the notebook)
 
 
 ## 💻 Implementation Details
