@@ -58,13 +58,12 @@ This project demonstrates a robust implementation of a linear logistic classifie
 - `plot_predictive_distribution`: Plots decision boundaries and predictive distributions.
 
 ## ⚙️ Setup Instructions
-Prerequisites
-Python (>= 3.8)
-NumPy
-Matplotlib (for visualization)
-Scikit-learn (optional, for comparison metrics)
-Installation
-Clone the repository:
+### **Prerequisites**
+- Python (>= 3.8)
+- NumPy
+- Matplotlib (for visualization)
+- Scikit-learn (optional, for comparison metrics)
+
 
 ---
 
