@@ -4,13 +4,13 @@ An experimental project implementing a thread-safe queue in C++, showcasing mult
 
 ## 📋 Table of Contents
 
-- [Introduction](#introduction)
-- [Features](#features)
-- [Setup Instructions](#setup-instructions)
-- [Implementation Details](#implementation-details)
-- [Usage](#usage)
-- [Future Enhancements](#future-enhancements)
-- [License](#license)
+- [Introduction](#-introduction)
+- [Features](#-features)
+- [Setup Instructions](#-setup-instructions)
+- [Implementation Details](#-implementation-details)
+- [Usage](#-usage)
+- [Future Enhancements](#-future-enhancements)
+- [License](#-license)
 
 ## 📖 Introduction
 
