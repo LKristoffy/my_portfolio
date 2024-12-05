@@ -4,14 +4,14 @@ A self-supervised learning model implementing SimCLR for robust image representa
 
 ## 📋 Table of Contents
 
-- [Introduction](#introduction)
-- [Dataset](#dataset)
-- [Features](#features)
-- [Setup Instructions](#setup-instructions)
-- [Implementation Details](#implementation-details)
-- [Results](#results)
-- [Future Work](#future-work)
-- [License](#license)
+- [Introduction](#-introduction)
+- [Dataset](#-dataset)
+- [Features](#-features)
+- [Setup Instructions](#-setup-instructions)
+- [Implementation Details](#-implementation-details)
+- [Results](#-results)
+- [Future Work](#-future-work)
+- [License](#-license)
 
 ## 📖 Introduction
 
