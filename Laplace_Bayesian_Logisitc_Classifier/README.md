@@ -5,14 +5,14 @@ An implementation of a logistic classifier, extended with advanced features such
 ---
 ## 📋 Table of Contents
 
-- [Introduction](#introduction)
-- [Features](#features)
-- [Key Functions](#key-functions)
-- [Setup Instructions](#setup-instructions)
-- [Implementation Details](#implementation-details)
-- [Results](#results)
-- [Future Work](#future-work)
-- [License](#license)
+- [Introduction](#-introduction)
+- [Features](#-features)
+- [Key Functions](#-key-functions)
+- [Setup Instructions](#-setup-instructions)
+- [Implementation Details](#-implementation-details)
+- [Results](#-results)
+- [Future Work](#-future-work)
+- [License](#-license)
 
   
 ---
