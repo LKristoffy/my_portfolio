@@ -1,8 +1,8 @@
-/LLMExperiments/BERT_Sentiment_Analysis/results/checkpoint-1000/optimizer.pt
-/LLMExperiments/BERT_Sentiment_Analysis/results/checkpoint-500/pytorch_model.bin
-/PySpark_Projects/MovieRecommender/Data/genome_scores.csv
+/LLMExperiments/BERT_Sentiment_Analysis/results
+/LLMExperiments/BERT_Sentiment_Analysis/logs
+/LLMExperiments/BERT_Sentiment_Analysis/.ipynb_checkpoints
+/LLMExperiments/Simple_RAG_Education_LLM/.ipynb_checkpoints
+/PySpark_Projects/MovieRecommender/Data
 /LLMExperiments/BERT_Sentiment_Analysis/BERTModel.pt
-/LLMExperiments/BERT_Sentiment_Analysis/results/checkpoint-1000/pytorch_model.bin
-/LLMExperiments/BERT_Sentiment_Analysis/results/checkpoint-500/optimizer.pt
-/PySpark_Projects/MovieRecommender/Data/rating.csv
+
 /.vscode
