@@ -43,7 +43,7 @@ This project demonstrates the deployment of a regression model for predicting ho
 **Tech Stack:**  
 Python, Flask, Docker, Kubernetes, Google Cloud Platform.  
 
-[**View Project Details**](#./DeploymentProject)
+[**View Project Details**](./DeploymentProject)
 
 ---
 
@@ -60,7 +60,7 @@ Implementation of a GDN model for anomaly detection in multivariate time series 
 **Tech Stack:**  
 Python, PyTorch, PyTorch Geometric.  
 
-[**View Project Details**](#./GDN_Anomaly_Detection)
+[**View Project Details**](./GDN_Anomaly_Detection)
 
 ---
 
@@ -94,7 +94,7 @@ Implementation of a logistic classifier with advanced features, including radial
 **Tech Stack:**  
 Python, NumPy, Matplotlib, Scikit-learn.  
 
-[**View Project Details**](#./Laplace_Bayesian_Logisitc_Classifier)
+[**View Project Details**](./Laplace_Bayesian_Logisitc_Classifier)
 
 ---
 
