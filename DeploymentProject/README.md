@@ -60,51 +60,64 @@ Copy code
 docker push <your-dockerhub-username>/boston_price_api:v1
 ## ☁️ Google Cloud Kubernetes Deployment
 Step 1: Set Up Google Kubernetes Engine (GKE)
+
 Create a Google Cloud Kubernetes Cluster:
 
 ``gcloud container clusters create boston-price-cluster \
   --num-nodes=3 \
   --region=us-central1``
+  
 Configure kubectl for Your Cluster:
 
 
 ``gcloud container clusters get-credentials boston-price-cluster --region=us-central1``
+
 Verify Cluster Connection:
 
 ``kubectl get nodes``
+
 Step 2: Apply Kubernetes Deployment
+
 Update Deployment Configuration:
 
 Open app/deployment.yaml and ensure the image field matches your DockerHub image:
 
 ``image: <your-dockerhub-username>/boston_price_api:v1``
+
 Apply Deployment and Service:
 
 ``kubectl apply -f app/deployment.yaml``
+
 Expose the Service:
 
 If not already exposed, you can expose the deployment:
 
 ``kubectl expose deployment boston-price-api --type=LoadBalancer --port=80 --target-port=5000``
+
 Retrieve the External IP:
 
 Get the external IP of the service to access your API:
 
 ``kubectl get services``
+
 Test the API:
 
 Use the external IP to send requests to the API, for example:
+
 ``curl -X POST http://<external-ip>/predict   -H "Content-Type: application/json"  -d '{"data": [[0.0063, 18.00, 2.310, 0.0, 0.4, 6.57, 65.0, 4.09, 1.0, 296.0, 15.5, 343.0, 5.0]]}'``
 
 Step 3: Scale and Manage
+
 Scale the Deployment:
 
 ``kubectl scale deployment boston-price-api --replicas=5``
+
 Clean Up:
 
 
 ``kubectl delete -f app/deployment.yaml
 gcloud container clusters delete boston-price-cluster --region=us-central1``
+
 ## 💻 Implementation Details
 - Model Training:
 A training notebook in the notebooks/ folder demonstrates preprocessing, training, and evaluation of the regression model.
