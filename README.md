@@ -19,8 +19,10 @@ Welcome to my Machine Learning Portfolio! This repository showcases a diverse ra
 ## 📖 Overview
 
 This portfolio demonstrates my expertise in a wide array of machine learning domains, including:  
-- Model deployment with Docker and Kubernetes.  
-- Graph-based deep learning for anomaly detection.  
+- Model deployment with Docker and Kubernetes.
+- Contrastive learning with SimCLR on the HAM10000 dataset.
+- Graph-based deep learning for anomaly detection.
+- Efficient and distributed training of a movie recommender system leveraging PySpark.
 - Experimentation with advanced neural network architectures, including LLMs.  
 - Bayesian optimization and kernel methods for classification.  
 
@@ -47,6 +49,24 @@ Python, Flask, Docker, Kubernetes, Google Cloud Platform.
 
 ---
 
+### 🖼️ SimCLR-Based Contrastive Learning for Image Representation
+
+**Description:**  
+A self-supervised learning project utilizing SimCLR for robust image representation learning. This project uses contrastive learning with augmented views of images to pretrain an encoder, which is evaluated through downstream classification tasks.  
+
+**Key Features:**  
+- Contrastive learning with extensive data augmentations.  
+- Projection head for improved representation alignment.  
+- Linear probing for evaluation on labeled datasets.  
+
+**Tech Stack:**  
+Python, TensorFlow, NumPy, Matplotlib.  
+
+[**View Project Details**](./SimCLR_HAM10000)
+
+
+---
+
 ### 📊 Graph Neural Network (GDN) for Multivariate Time Series Anomaly Detection
 
 **Description:**  
@@ -63,7 +83,23 @@ Python, PyTorch, PyTorch Geometric.
 [**View Project Details**](./GDN_Anomaly_Detection)
 
 ---
+### 🎥 Movie Recommendation System with PySpark
 
+**Description:**  
+A collaborative filtering-based movie recommendation system leveraging PySpark's MLlib. The system uses the Alternating Least Squares (ALS) algorithm to generate personalized movie suggestions based on user-movie interaction data.  
+
+**Key Features:**  
+- ALS-based collaborative filtering model.  
+- Scalable data preprocessing using PySpark.  
+- Hyperparameter tuning for improved accuracy.  
+- Visualizations of user activity and rating trends.  
+
+**Tech Stack:**  
+Python, PySpark, Matplotlib, Seaborn.  
+
+[**View Project Details**](./PySpark_Projects/MovieRecommender)
+
+---
 ### 🤖 LLM Experiments
 
 **Description:**  
