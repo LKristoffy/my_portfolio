@@ -8,8 +8,10 @@ Welcome to my Machine Learning Portfolio! This repository showcases a diverse ra
 
 1. [📖 Overview](#-overview)  
 2. [🌟 Featured Projects](#-featured-projects)  
-   - [🏡 Boston House Price Docker/K8s Deployment](#-boston-house-price-dockerk8s-deployment)  
-   - [📊 Graph Neural Network (GDN) for Multivariate Time Series Anomaly Detection](#-graph-neural-network-gdn-for-multivariate-time-series-anomaly-detection)  
+   - [🏡 Boston House Price Docker/K8s Deployment](#-boston-house-price-dockerk8s-deployment)
+   - [🖼️ SimCLR-Based Contrastive Learning for Image Representation](-simclr-based-contrastive-learning-for-image-representation)
+   - [📊 Graph Neural Network (GDN) for Multivariate Time Series Anomaly Detection](#-graph-neural-network-gdn-for-multivariate-time-series-anomaly-detection)
+   - [🎥 Movie Recommendation System with PySpark](#movie-recommendation-system-with-pyspark)
    - [🤖 LLM Experiments](#-llm-experiments)  
    - [🧠 Logistic Classifier with RBF Extensions](#-logistic-classifier-with-rbf-extensions)  
 3. [📞 Contact](#-contact)  
