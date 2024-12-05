@@ -7,7 +7,7 @@ A regression model deployment project using Docker and Kubernetes, trained on th
 - [Dataset](#-dataset)
 - [Features](#-features)
 - [Setup Instructions](#-setup-instructions)
-- [Google Cloud Kubernetes Deployment](#-google-cloud-kuberentes-deployment)
+- [Google Cloud Kubernetes Deployment](#-google-cloud-kubernetes-deployment)
 - [Implementation Details](#-implementation-details)
 - [Results](#-results)
 - [Future Work](#-future-work)
