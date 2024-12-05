@@ -3,15 +3,15 @@ A regression model deployment project using Docker and Kubernetes, trained on th
 
 ## 📋 Table of Contents
 
-- [Introduction](#introduction)
-- [Dataset](#dataset)
-- [Features](#features)
-- [Setup Instructions](#setup-instructions)
-- [Google Cloud Kubernetes Deployment](#google-cloud-kuberentes-deployment)
-- [Implementation Details](#implementation-details)
-- [Results](#results)
-- [Future Work](#future-work)
-- [License](#license)
+- [Introduction](#-introduction)
+- [Dataset](#-dataset)
+- [Features](#-features)
+- [Setup Instructions](#-setup-instructions)
+- [Google Cloud Kubernetes Deployment](#-google-cloud-kuberentes-deployment)
+- [Implementation Details](#-implementation-details)
+- [Results](#-results)
+- [Future Work](#-future-work)
+- [License](#-license)
   
 ## 📖 Introduction
 This project aims to deploy a regression model for predicting house prices using Docker and Kubernetes. The model API is containerized and can be scaled on cloud platforms like Google Kubernetes Engine (GKE) using kubectl. It serves as a practical demonstration of deploying machine learning solutions in production.
