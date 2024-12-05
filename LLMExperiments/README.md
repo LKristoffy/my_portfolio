@@ -4,13 +4,13 @@ A collection of experimental projects exploring the capabilities and application
 
 ## 📋 Table of Contents
 
-- [Introduction](#introduction)
-- [Projects Overview](#projects-overview)
-  - [1. Building an LLM from Scratch](#1-building-an-llm-from-scratch)
-  - [2. Educational LLM with RAG and LangChain](#2-educational-llm-with-rag-and-langchain)
-  - [3. Fine-Tuning BERT for Sentiment Analysis](#3-fine-tuning-bert-for-sentiment-analysis)
-- [Future Directions](#future-directions)
-- [License](#license)
+- [Introduction](#-introduction)
+- [Projects Overview](#-projects-overview)
+  - [1. Building an LLM from Scratch](#-1-building-an-llm-from-scratch)
+  - [2. Educational LLM with RAG and LangChain](#-2-educational-llm-with-rag-and-langchain)
+  - [3. Fine-Tuning BERT for Sentiment Analysis](#-3-fine-tuning-bert-for-sentiment-analysis)
+- [Future Directions](#-future-directions)
+- [License](#-license)
 
 ## 📖 Introduction
 
