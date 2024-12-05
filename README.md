@@ -103,8 +103,8 @@ Python, NumPy, Matplotlib, Scikit-learn.
 Feel free to reach out for collaborations, questions, or opportunities!  
 
 - **Email:** liam@kristoffy.com  
-- **LinkedIn:** [Liam Kristoffy](#https://www.linkedin.com/in/liam-kristoffy/)  
-- **GitHub:** [LKristoffy](#https://github.com/LKristoffy)  
+- **LinkedIn:** [Liam Kristoffy](https://www.linkedin.com/in/liam-kristoffy/)  
+- **GitHub:** [LKristoffy](https://github.com/LKristoffy)  
 
 ---
 
