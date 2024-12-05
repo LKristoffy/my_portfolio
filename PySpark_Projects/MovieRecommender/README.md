@@ -4,14 +4,14 @@ A collaborative filtering-based movie recommendation system built using PySpark'
 
 ## 📋 Table of Contents
 
-- [Introduction](#introduction)
-- [Dataset](#dataset)
-- [Features](#features)
-- [Setup Instructions](#setup-instructions)
-- [Implementation Details](#implementation-details)
-- [Results](#results)
-- [Future Work](#future-work)
-- [License](#license)
+- [Introduction](#-introduction)
+- [Dataset](#-dataset)
+- [Features](#-features)
+- [Setup Instructions](#-setup-instructions)
+- [Implementation Details](#-implementation-details)
+- [Results](#-results)
+- [Future Work](#-future-work)
+- [License](#-license)
 
 ## 📖 Introduction
 
