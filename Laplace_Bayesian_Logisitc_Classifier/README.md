@@ -92,15 +92,9 @@ Bayesian logistic regression with Laplacian approximation provided reliable unce
 
 ---
 ## 🚀 Future Work
-**Multiclass Support:**
-
-Extend the implementation to handle multi-class classification using one-vs-rest or softmax approaches.
-**Bayesian Priors:**
-
-Experiment with different prior distributions to refine Bayesian modeling.
-**Interactive Visualizations:**
-
-Develop tools to visualize decision boundaries and model uncertainties dynamically.
+- **Multiclass Support:** Extend the implementation to handle multi-class classification using one-vs-rest or softmax approaches.
+- **Bayesian Priors:** Experiment with different prior distributions to refine Bayesian modeling.
+- **Interactive Visualizations:** Develop tools to visualize decision boundaries and model uncertainties dynamically.
 
 ---
 
