@@ -46,7 +46,7 @@ Clone the Repository:
 
 
 ``git clone <repo-url>
-cd <repo-name>``
+cd ./my_portfolio/DeploymentProject``
 Train the Model (Optional):
 
 Navigate to the notebooks/ folder and run the training notebook.
