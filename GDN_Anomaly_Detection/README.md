@@ -3,15 +3,15 @@ A project that implements a graph neural network (GDN) to detect anomalies in mu
 
 ## 📋 Table of Contents
 
-- [Introduction](#introduction)
-- [Dataset](#dataset)
-- [Features](#features)
-- [Setup Instructions](#setup-instructions)
-- [Implementation Details](#implementation-details)
-- [Results](#results)
-- [Challenges](#challenges)
-- [Future Work](#future-work)
-- [License](#license)
+- [Introduction](#-introduction)
+- [Dataset](#-dataset)
+- [Features](#-features)
+- [Setup Instructions](#-setup-instructions)
+- [Implementation Details](#-implementation-details)
+- [Results](#-results)
+- [Challenges](#-challenges)
+- [Future Work](#-future-work)
+- [License](#-license)
 ## 📖 Introduction
 This project explores the use of a graph neural network for anomaly detection in multivariate time series data. It utilizes the relationships between features (sensors) to construct a dynamic graph and detect deviations from normal behavior. The anomaly score is computed based on the deviation at each time step.
 
