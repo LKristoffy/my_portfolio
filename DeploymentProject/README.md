@@ -39,7 +39,7 @@ Prerequisites
 - Google Cloud CLI (gcloud): Installed and authenticated.
 - Google Cloud Project: Set up with billing enabled.
 - Python: (>=3.8) Installed locally for training/testing.
-- 
+
 Steps to Deploy
 Clone the Repository:
 
