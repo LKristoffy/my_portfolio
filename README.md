@@ -9,7 +9,7 @@ Welcome to my Machine Learning Portfolio! This repository showcases a diverse ra
 1. [📖 Overview](#-overview)  
 2. [🌟 Featured Projects](#-featured-projects)  
    - [🏡 Boston House Price Docker/K8s Deployment](#-boston-house-price-dockerk8s-deployment)
-   - [🖼️ SimCLR-Based Contrastive Learning for Image Representation](-simclr-based-contrastive-learning-for-image-representation)
+   - [🖼️ SimCLR-Based Contrastive Learning for Image Representation](#-simclr-based-contrastive-learning-for-image-representation)
    - [📊 Graph Neural Network (GDN) for Multivariate Time Series Anomaly Detection](#-graph-neural-network-gdn-for-multivariate-time-series-anomaly-detection)
    - [🎥 Movie Recommendation System with PySpark](#-movie-recommendation-system-with-pyspark)
    - [🤖 LLM Experiments](#-llm-experiments)  
@@ -143,6 +143,7 @@ Feel free to reach out for collaborations, questions, or opportunities!
 - **Email:** liam@kristoffy.com  
 - **LinkedIn:** [Liam Kristoffy](https://www.linkedin.com/in/liam-kristoffy/)  
 - **GitHub:** [LKristoffy](https://github.com/LKristoffy)  
+- **Medium:** [@liamkristoffy](https://medium.com/@liamkristoffy)
 
 ---
 
