@@ -14,7 +14,7 @@ spec:
     spec:
       containers:
       - name: my-app
-        image: lkristoffy/my_app:v1
+        image: lkristoffy/my_app:v2
         ports:
         - containerPort: 9999
         env:
