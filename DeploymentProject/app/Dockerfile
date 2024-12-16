@@ -8,7 +8,10 @@ WORKDIR /app
 COPY . .
 
 # Install dependencies
-RUN pip install --upgrade numpy==1.22.4 scikit-learn==1.0.2 xgboost flask gunicorn joblib
+RUN pip install --upgrade numpy==1.22.4 scikit-learn==1.0.2 xgboost==2.1.2 flask gunicorn joblib
+
+RUN useradd -m appuser
+USER appuser
 
 # Expose port
 EXPOSE 9999:9999
